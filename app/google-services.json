@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4101016187",
+    "project_id": "ridehack-79df7",
+    "storage_bucket": "ridehack-79df7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4101016187:android:a29b849bc79e95840c30de",
+        "android_client_info": {
+          "package_name": "com.example.vibeus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGC_NJH5rTOXo_TLqh-7SCI_8sBdvLPkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
